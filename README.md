@@ -44,6 +44,8 @@ Currently based in Luanda, Angola 🇦🇴
 
 **Budget Tracker** — A personal finance app focused on helping users take control of their spending, set savings goals, and build better money habits. Built with a full-stack mindset: clean UI, solid API, and real-time data.
 
+**Trade Simulator** — A financial simulation engine built to mirror live market environments with millisecond precision. It functions as a Virtual Order Management System (VOMS) that bridges live exchange data with a sandbox execution layer: clean UI, solid API, and real-time data.
+
 I'm drawn to **productivity-focused fintech** — tools that cut through complexity and give people a clearer picture of their financial lives.
 
 ---
