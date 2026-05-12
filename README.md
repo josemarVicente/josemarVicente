@@ -65,24 +65,10 @@ I'm drawn to **productivity-focused fintech** — tools that cut through complex
 - ☁️ Cloud infrastructure (AWS / containerization with Docker)
 - 🔍 System design & scalable architecture
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Josemar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josemarVicente&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josemarVicente&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josemarVicente)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/josemarVicente](https://www.linkedin.com/in/josemar-vicente-984642261/))
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:josemaralessio@gmai.com)
 
 ---
 
