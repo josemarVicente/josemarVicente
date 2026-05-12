@@ -1,16 +1,5 @@
 <!--
 **josemarVicente/josemarVicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <div align="center">
@@ -65,10 +54,22 @@ I'm drawn to **productivity-focused fintech** — tools that cut through complex
 - ☁️ Cloud infrastructure (AWS / containerization with Docker)
 - 🔍 System design & scalable architecture
 
+---
+
+### GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=josemarVicente&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/josemarVicente](https://www.linkedin.com/in/josemar-vicente-984642261/))
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:josemaralessio@gmai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemar-vicente-984642261/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:josemaralessio@gmail.com)
 
 ---
 
